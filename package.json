@@ -1,13 +1,13 @@
 {
   "name": "gameactivitysession10",
   "version": "1.0.0",
-  "description": "",
+  "description": "A game activity for session 10",
   "main": "main.js",
   "type": "module",
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["game", "activity", "session10"],
+  "author": "Your Name or Organization"
 }
